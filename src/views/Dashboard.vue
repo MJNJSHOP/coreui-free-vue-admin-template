@@ -5,6 +5,7 @@
       <CCardBody>
         <CRow>
           <CCol sm="5">
+          hfuygikujhlkijkoijoijijioiniujhijknios
             <h4 id="traffic" class="card-title mb-0">Traffic</h4>
             <div class="small text-muted">November 2017</div>
           </CCol>
